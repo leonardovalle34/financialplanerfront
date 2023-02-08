@@ -1,0 +1,15 @@
+.in{
+    display: flex;
+    flex-direction: column;
+    margin-right: 32px;
+    font-weight: 800;
+}
+.btn{
+    margin: 12px;
+    border-radius: 8px;
+    font-size: medium;
+    font-weight: 600;
+    background: #1a1a81 !important;
+    color: #fff !important;
+    
+}

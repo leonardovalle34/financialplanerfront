@@ -1,0 +1,23 @@
+.btn{
+    margin: 2%;
+    border-radius: 8px;
+    font-size: medium;
+    font-weight: 600;
+    background: #1a1a81 !important;
+    color: #fff !important;
+    
+}
+
+.divbtn{
+    height: 30%;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    flex-direction: column;
+}
+
+.divinput{
+    margin: 12px;
+}
+

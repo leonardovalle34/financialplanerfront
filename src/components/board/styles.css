@@ -1,0 +1,45 @@
+.btnClose{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    width: 100%;
+}
+.btn{
+    margin: 2%;
+    border-radius: 8px;
+    font-size: medium;
+    font-weight: 600;
+    background: #1a1a81 !important;
+    color: #fff !important;
+    
+}
+
+.divInTop{
+    width: 100%;
+    border-bottom: black;
+    border-bottom-style: solid;
+    border-bottom-width: large;
+}
+.divInBottom{
+    width: 100%;
+    border-bottom: black;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+}
+
+.title{
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
+p{
+    margin: 0px;
+}
+
+.receita{
+    width: 30%;
+}
+
+input{
+    border-radius: 8px;
+}
